@@ -27,5 +27,6 @@ Recovered Evidence
 - BANK.PNG: An active image file showing a compromised bank account interface.
 
 Example Recovery Command
+
 The following command was used to manually carve the deleted zip file:
 - dd if=captured_image.dd of=FINAL_PLAN.ZIP bs=512 skip=108696 count=3 status=progress
