@@ -30,6 +30,7 @@ Part 2: Network Intrusion
 - Compromise & Exfiltration: The authorized user's machine was compromised, likely via a downloaded payload (documents.zip), and subsequently used to exfiltrate a sensitive file (Mortgage.pdf) to the attacker.
 
 Recovered Evidence
+
 The following files were recovered from the network traffic and verified using hashing tools:
 - employee_details.txt: Authorized download.
 - Check1.jpg & check1.jpg: Unauthorized upload and download.
