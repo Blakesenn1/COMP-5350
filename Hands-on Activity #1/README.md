@@ -3,6 +3,7 @@
 ### Course: Digital Forensics
 
 Project Overview
+
 This project documents the manual forensic analysis of a disk image (captured_image_work.dd) recovered from a laptop linked to the APT99 cybercriminal group. The investigation focused on identifying partitions, recovering deleted data, and finding evidence of a bank heist.
 
 Constraint: All analysis and file recovery were performed manually using command-line tools. No automated forensic software (like EnCase or Autopsy) was used.
