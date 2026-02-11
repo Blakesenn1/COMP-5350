@@ -2,7 +2,8 @@
 ### Author: Blake Senn 
 ### Course: Digital Forensics
 
-Project Overview 
+Project Overview
+
 This final exam required a full-scope digital forensic investigation of a compromised system. The objective was to analyze multiple evidence sources—including Windows Registry hives, network packet captures, and disk artifacts—to reconstruct the attack lifecycle. The investigation focused on identifying the threat actor's entry point, mapping their lateral movement, locating malicious payloads, and determining if any sensitive data was exfiltrated.
 
 Tools Used
