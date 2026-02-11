@@ -37,6 +37,7 @@ The following files were recovered from the network traffic and verified using h
 - Mortgage.pdf: Sensitive data exfiltrated by the victim's compromised machine.
 
 Example Command
+
 The following RegRipper command was used to parse the SAM hive for user account information:
 
 ./rip.exe -r SAM -p samparse
