@@ -17,6 +17,7 @@ Methodology
 4. Attack Reconstruction: Built a timeline of events based on login timestamps, IP addresses, and file transfer commands (RETR/STOR).
 
 Key Findings
+
 Part 1: Windows Registry
 - User Activity: Identified the user 'aubie' and their last login time (Fri Oct 23 00:01:01 2020 Z).
 - System Config: Located the system's static private IP address (192.168.48.141).
