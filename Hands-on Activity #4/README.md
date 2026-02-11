@@ -42,5 +42,4 @@ The following artifacts were recovered and verified during the investigation:
 Example Command 
 
 The following command was used to brute-force the steganography on the beach image using the provided wordlist:
-
-stegseek beach.jpg passphrases.txt
+- stegseek beach.jpg passphrases.txt
