@@ -1,0 +1,11 @@
+LN, FN, DoB, FTP-Username, Password
+Smith, John, 1990-01-15, johnsmith, pass1234
+Doe, Jane, 1985-07-22, janedoe, 1234abcd
+Brown, Charlie, 1992-03-10, charlieb, brownpwd
+Johnson, Emily, 1988-12-05, emilyj, emily123
+Williams, Michael, 1995-09-18, michaelw, easy123
+Jones, Sarah, 1991-11-30, sarahjones, sjones1
+Garcia, Carlos, 1987-06-25, carlosg, carlos22
+Martinez, Maria, 1989-04-12, mariam, maria89
+Davis, William, 1993-08-20, williamd, pass567
+Taylor, Emma, 1996-02-14, emmat, emma14
