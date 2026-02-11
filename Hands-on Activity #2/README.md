@@ -1,5 +1,5 @@
 # COMP 5350: NTFS Forensic Analysis & Steganography
-## Author: Blake Senn 
+### Author: Blake Senn 
 ### Course: Digital Forensics 
 
 Project Overview
