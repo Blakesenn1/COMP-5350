@@ -25,6 +25,6 @@ Methodology
   - secret.txt: A hidden file extracted from innocent_cat.jpg using steghide. It contained the suspect's real name (Sean) and address.
 
 Example Recovery Command
-The following command was used to manually carve the JPEG file containing the hidden data:
 
-dd if=ShadowLaptop.dd of=innocent_cat.jpg bs=512 skip=133120 count=120 status=progress
+The following command was used to manually carve the JPEG file containing the hidden data:
+- dd if=ShadowLaptop.dd of=innocent_cat.jpg bs=512 skip=133120 count=120 status=progress
