@@ -3,6 +3,7 @@
 ### Course: Digital Forensics 
 
 Project Overview
+
 This project documents the manual forensic analysis of a disk image (ShadowLaptop.dd) recovered from a laptop linked to the "Shadow1" alias, a partner of the captured hacker "Ghost". The investigation focused on identifying partitions, recovering hidden files, and decoding steganographic messages to locate the suspect.
 
 Constraint: All analysis and file recovery were performed manually using command-line tools. No automated forensic software was used.
