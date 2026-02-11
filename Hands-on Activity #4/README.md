@@ -3,6 +3,7 @@
 ### Course: Digital Forensics
 
 Project Overview
+
 This project involved a forensic examination of digital media seized from a laptop suspected of being used to plan a high-value theft against Aurelia Bank. The investigation focused on analyzing two directories, /Recovered_Images and /Recovered_Documents, to uncover concealed operational details. The primary objective was to detect steganography, reconstruct hidden data, and identify the target, team, and timeline of the criminal operation.
 
 Tools Used
@@ -31,6 +32,7 @@ Part 2: Hidden Archive & The Heist Plan
 - Getaway Vehicle: Recovered an image of a Green Mustang with license plate EP68BLZ.
 
 Recovered Evidence
+
 The following artifacts were recovered and verified during the investigation:
 - Map Fragments: beach.jpg.out, nyc.jpg.out, lena.bmp.out, mountain.jpg.out (Text files containing coordinates/clues).
 - Decoded Passphrases: alpha123, blue-crate, For3nsiC!.
