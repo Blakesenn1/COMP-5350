@@ -3,6 +3,7 @@
 ### Course: Digital Forensics
 
 Project Overview
+
 This project consists of a two-part forensic investigation. Part 1 involved the analysis of Windows Registry hives to reconstruct system configurations and user activity. Part 2 focused on network forensics, analyzing a packet capture (FTPPackets.pcap) to investigate a data breach on an FTP server involving multiple threat actors and data exfiltration.
 
 Tools Used
