@@ -21,6 +21,7 @@ Methodology
 5. Timeline Reconstruction (Q5): Correlated timestamps across registry keys, file system metadata, and network logs to build a definitive timeline of the compromise.
 
 Key Findings 
+
 Question 1: Registry Forensics
 - System Profile: Identified the Operating System install date and the current timezone offset.
 - User Attribution: Determined the last user to successfully log in and the specific timestamp of that event, establishing the timeline of authorized vs. unauthorized access.
@@ -41,7 +42,8 @@ Question 5: Incident Timeline
 - Compromise Window: Established the exact start and end times of the attack based on the correlation of network and registry artifacts.
 - Sequence of Events: Mapped the attacker's actions from initial scan to final data exfiltration.
 
-Recovered Evidence 
+Recovered Evidence
+
 The following artifacts were recovered and verified during the investigation:
 - Registry Reports: Parsed outputs from SYSTEM and NTUSER.DAT.
 - Malicious Payload: The executable file recovered from the network stream.
