@@ -40,6 +40,7 @@ The following artifacts were recovered and verified during the investigation:
 - EP68BLZ.jpg: Image of the getaway vehicle.
 
 Example Command 
+
 The following command was used to brute-force the steganography on the beach image using the provided wordlist:
 
 stegseek beach.jpg passphrases.txt
