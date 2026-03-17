@@ -1,2 +1,2 @@
 # COMP_5350
-### Digital Forensics
+### COMP_5350 - Digital Forensics
